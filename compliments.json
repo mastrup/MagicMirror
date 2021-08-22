@@ -14,14 +14,13 @@
         "Yes, you are the fairest of them all",
         "May the Force be with you",
         "There's no place like home",
-        "There is no spoon...",
         "Temet Nosce",
         "Welcome to the desert of the real",
         "If you focus on what you’ve left behind, you will never be able to see what lies ahead",
         "I carried a watermelon",
         "You gotta hold the frame",
         "Never underestimate the power of denial",
-        "Strangers all wanna sit next to you on the bus",
+        "Fremmede vil sidde ved siden af dig i bussen",
         "Coworkers fantasizes about getting stuck in the elevator with you",
         "At least two friends are going to name their child and/or goldfish after you",
         "You are freakishly good at thumb wars",
@@ -40,15 +39,15 @@
         "People always think your jeggings are regular jeans",
         "80% of motorcycle gangs think you’d be a delightful sidecar",
         "Everyone at the laundromat thinks you have the cutest underwear",
-        "People behind you at movies think you are the perfect height",
+        "Folk bag dig, i biografen, synes din højde er perfekt",
         "Your parents argue over which one of them you look like",
         "Your smile is contagious",
         "You look great today",
         "You're a smart cookie",
-        "I bet you make babies smile",
+        "Jeg vil vædde med, at du får børn til at smile",
         "You have impeccable manners",
-        "I like your style",
-        "You have the best laugh",
+        "Jeg kan lide din stil",
+        "Du har det smukkeste grin",
         "I appreciate you",
         "You are the most perfect you there is",
         "Your perspective is refreshing",
@@ -62,8 +61,7 @@
         "You're all that and a super-size bag of chips",
         "You're even more beautiful on the inside than you are on the outside",
         "If cartoon bluebirds were real, a bunch of them would be sitting on your shoulders singing right now",
-        "You are making a difference",
-        "You're like sunshine on a rainy day",
+        "Du gør en forskel",
         "You bring out the best in other people",
         "Your ability to recall random factoids at just the right time is impressive",
         "You're a great listener",
@@ -93,20 +91,19 @@
         "You're a great example to others",
         "Being around you is like being on a happy little vacation",
         "You always know just what to say",
-        "You're always learning new things and trying to better yourself, which is awesome",
+        "Du lærer altid nye ting og prøver at forbedre dig selv, hvilket er fantastisk",
         "If someone based an Internet meme on you, it would have impeccable grammar",
         "You could survive a Zombie apocalypse",
-        "You're more fun than bubble wrap",
-        "When you make a mistake, you fix it",
-        "Who raised you? They deserve a medal for a job well done",
+        "Du er sjovere end bobleplast",
+        "Når du laver en fejl, retter du den",
+        "Hvem har opdraget dig? De fortjener en medalje for et godt stykke arbejde",
         "You're great at figuring stuff out",
         "Your voice is magnificent",
         "The people you love are lucky to have you in their lives",
         "You're like a breath of fresh air",
-        "You're gorgeous -- and that's the least interesting thing about you, too",
-        "You're so thoughtful",
+        "Du er smuk - og det er det mindst interessante ved dig",
+        "Du er så betænksom",
         "Your creative potential seems limitless",
-        "Your name suits you to a T",
         "You're irresistible when you blush",
         "Actions speak louder than words, and yours tell an incredible story",
         "Somehow you make time stop and fly at the same time",
@@ -225,16 +222,16 @@
         "Snekamp!"
     ],
     "day_sunny" : [
-        "Today is a sunny day",
-        "It's a beautiful day",
-        "The sun is shining today!",
-        "It's such a beautiful day",
-        "It's gorgeous outside, go play!"
+        "I dag er en solskinsdag",
+        "Det er en smuk dag",
+        "Solen skinner i dag!",
+        "Det er sådan en smuk dag",
+        "Det er smukt udenfor, ud med dig!"
         ],
     "day_cloudy" : [
         "It's cloudy out there, but no meatballs",
-        "It may be cloudy, but it's still nice out!",
-        "The sun is hiding right now"
+        "Det kan godt være det er overskyet, men det er stadig dejligt ude!",
+        "Solen gemmer sig lige nu"
         ],
     "cloudy" : [
         ],
@@ -243,16 +240,17 @@
     "showers" : [
         ],
     "rain" : [
-        "Take your umbrella with you",
-        "It's wet out there, drive safe!",
-        "It's rainy outside, but you brighten my day"
+        "Tag din paraply med dig",
+        "Det er vådt derude, kør forsigtigt!",
+        "Det regner udenfor, men du lyser min dag op",
+        "Du er som solskin på en regnvejrsdag"
         ],
     "thunderstorm" : [
         ],
     "fog" : [
     ],
     "night_clear": [
-        "Weather forecast for tonight: dark"
+        "Vejrudsigt for i aften: mørkt"
     ],
     "night_cloudy" : [
     ],
